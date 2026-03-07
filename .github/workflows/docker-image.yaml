@@ -31,5 +31,5 @@ jobs:
       with:
         context: .
         tags: |
-          jacoby1218/oobabooga:latest
+          ramaadi/oobabooga:latest
         push: ${{ github.ref == 'refs/heads/main' }}
